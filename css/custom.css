@@ -1,0 +1,39 @@
+.header .logo {
+    margin: 0;
+    padding: 29px 0;
+    -webkit-transition: 0.2s;
+    transition: 0.2s;
+    float: left;
+}
+
+.tj{
+
+
+    text-align: justify;
+}
+
+.box {
+    background: #f7f7f7;
+    padding: 30px;
+    border: 1px solid #ddd;
+}
+
+
+
+.borderaqua{
+    border: 1px solid #b2ebf275;
+
+
+}
+
+.news{
+color:black !important;
+font-size: 18px;
+ background: #e0f7fa21;
+ font-weight: 550;
+ padding: 35px;
+ height :457px;
+}
+
+
+
